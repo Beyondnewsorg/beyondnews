@@ -3,3 +3,4 @@
 ##################### Follow the below format########################################
 
 [12-08-2015] KARAN : Initialized Beyond NEWS and Portal Update Log.
+[12-08-2015] KARAN : Repo Shifted to beyondNEWS Repository.
